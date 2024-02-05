@@ -2,3 +2,7 @@ This is text file 2.
 
 
 GitKraken ....
+
+(Student 2 branch2 Mary) 
+
+Working in Branch 2, adding header to main page
